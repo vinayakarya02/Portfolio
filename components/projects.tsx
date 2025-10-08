@@ -31,7 +31,7 @@ const projects = [
       "A Multi-Agent workflow that researches industries/companies, proposes AI/GenAI use cases, gathers datasets/resources, and generates comprehensive proposals.",
     tech: ["Python", "Streamlit", "AI Agents", "Market Research"],
     github: "https://github.com/vinayakarya02/Market-Analysis",
-    live: "#", // Placeholder for live demo
+    live: "https://market-analysis-v0mg.onrender.com/", // Placeholder for live demo
     featured: true,
   },
   {
@@ -39,8 +39,8 @@ const projects = [
     description:
       "A comprehensive travel planning application built with React and modern web technologies, helping users organize and plan their trips efficiently.",
     tech: ["React", "JavaScript", "CSS", "Travel Planning"],
-    github: "#", // Placeholder for GitHub link
-    live: "#", // Placeholder for live demo
+    github: "https://github.com/vinayakarya02/Travel-planner", 
+    live: "#",
     featured: false,
   },
   {
@@ -75,7 +75,7 @@ const projects = [
     description:
       "Personal portfolio website showcasing projects, skills, and experience with modern design, smooth animations, and responsive layout.",
     tech: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
-    github: "#", // Placeholder for GitHub link
+    github: "https://github.com/vinayakarya02/Portfolio", // Placeholder for GitHub link
     live: "#", // Placeholder for live demo
     featured: false,
   },
