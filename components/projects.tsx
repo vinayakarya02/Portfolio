@@ -31,7 +31,7 @@ const projects = [
       "A Multi-Agent workflow that researches industries/companies, proposes AI/GenAI use cases, gathers datasets/resources, and generates comprehensive proposals.",
     tech: ["Python", "Streamlit", "AI Agents", "Market Research"],
     github: "https://github.com/vinayakarya02/Market-Analysis",
-    live: "https://market-analysis-v0mg.onrender.com/", // Placeholder for live demo
+    live: "https://market-analysis-v0mg.onrender.com", // Placeholder for live demo
     featured: true,
   },
   {
